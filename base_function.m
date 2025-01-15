@@ -1,6 +1,6 @@
 function e = base_function(n, i, x)
 h = 2/n;
-    if i>n
+    if i>n || x>2
         e = 0;
         return;
     end

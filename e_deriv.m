@@ -1,6 +1,6 @@
 function d = e_deriv(n, i, x)
     h = 2/n;
-    if i>n
+    if i>n || x>2
         d = 0;
         return;
     end
