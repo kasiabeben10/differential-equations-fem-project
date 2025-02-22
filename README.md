@@ -43,6 +43,9 @@ where:
 ### Numerical Integration
 
 The 2-point Gauss-Legendre quadrature method is used for numerical integration.
+<br/><br/>
+
+Report (in Polish) available [here](https://github.com/kasiabeben10/differential-equations-fem-project/tree/main/report.pdf).
 
 ## Code Structure
 
