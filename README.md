@@ -65,4 +65,7 @@ solver(n);
 
 The solution is plotted and saved as `plot.png`.
 
+## Result
+For `n = 20`: <br/><br/>
+<img src="plot.png" alt="plot" width="500">
 
